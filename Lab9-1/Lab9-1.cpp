@@ -29,7 +29,6 @@ int main() {
 		}
 	}
 	cout << endl;
-	/*
 	cout << "Even-Valued Elements: ";
 	for (int i = 0; i < ARRAYSIZE; i++) {
 		if (numbers[i] % 2 == 0) {
@@ -37,7 +36,7 @@ int main() {
 		}
 	}
 	cout << endl;
-	
+	/*
 	cout << "Elements in Reverse Order: ";
 	for (int j = 1; j <= ARRAYSIZE; j++) {
 		cout << numbers[(ARRAYSIZE - j)] << "  ";
