@@ -36,12 +36,12 @@ int main() {
 		}
 	}
 	cout << endl;
-	/*
 	cout << "Elements in Reverse Order: ";
 	for (int j = 1; j <= ARRAYSIZE; j++) {
 		cout << numbers[(ARRAYSIZE - j)] << "  ";
 	}
 	cout << endl;
+	/*
 	cout << "First and Last Element: ";
 	for (int k = 0; k < ARRAYSIZE; k++) {
 		if (k == 0) {
