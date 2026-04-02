@@ -41,7 +41,6 @@ int main() {
 		cout << numbers[(ARRAYSIZE - j)] << "  ";
 	}
 	cout << endl;
-	/*
 	cout << "First and Last Element: ";
 	for (int k = 0; k < ARRAYSIZE; k++) {
 		if (k == 0) {
@@ -51,6 +50,6 @@ int main() {
 			cout << numbers[k] << "  ";
 		}
 	}
-	*/
+	
 	return 0;
 }
