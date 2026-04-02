@@ -1,3 +1,9 @@
+/*
+Jaden Ryan
+4/2/2026
+
+Program Description: A program to generate 10 random numbers, and display certain elements and in certain orders
+*/
 #include<iostream>
 #include<random>
 using namespace std;
